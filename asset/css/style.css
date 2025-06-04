@@ -19,3 +19,12 @@ header .logo {
   background: size 50%;
   ;
 }
+
+main,
+footer {
+  padding-left: 20px;
+}
+
+h1 {
+  font-size: 2.5rem;
+}
